@@ -1,0 +1,1 @@
+"INSERT INTO Price (id,currency,price,vehicleId) VALUES (1, USD, 2000, 13);"
